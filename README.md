@@ -1,5 +1,7 @@
 # Building a Chatbot Using BERT LLM for the German Embassy
 
+![](https://github.com/Lucky-akash321/Building-Chatbot-using-BERT-LLM-for-German-Embassy/blob/main/image.png)
+
 ## Introduction
 A **chatbot powered by BERT (Bidirectional Encoder Representations from Transformers) and Large Language Models (LLMs)** can efficiently handle inquiries for the **German Embassy**, answering common visa, passport, and immigration-related questions in multiple languages. This guide outlines the **step-by-step process** of building, training, and deploying the chatbot.
 
